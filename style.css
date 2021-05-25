@@ -25,15 +25,6 @@ span{
 	border-radius: 10px;
 	margin-bottom: 10px;
 }
-#instructions{
-    height: 600px;
-    width: 1000px;
-    border-radius: 10px;
-    margin-right: 75px;
-    padding: 10px;
-    background-color: red;
-    
-}
 #main-div{
     display: flex;
     text-align: center;
